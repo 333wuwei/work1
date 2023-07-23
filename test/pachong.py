@@ -58,5 +58,5 @@ for page in range(1, 6):
 
 
             with open('img\\{}\\'.format(file_name) + img_name, 'wb') as f:
-                print('下载完成：', img_name)
+               # print('下载完成：', img_name)
                 f.write(img_data)
