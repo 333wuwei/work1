@@ -1,8 +1,4 @@
-"""
-采集靓丽壁纸爬取
-Python学习交流q群：708525271
-VIP课程咨询添加微信：Python1018
-"""
+
 import re
 import requests
 import parsel
